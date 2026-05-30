@@ -1,6 +1,12 @@
 # Netflix_Dashboard
 PowerBI Dashboard for Netflix Dataset 
 
+
+## Preview 
+<img width="1311" height="781" alt="image" src="https://github.com/user-attachments/assets/e141aa35-8e22-4ffd-9e75-421c9c955986" />
+<img width="1344" height="971" alt="image" src="https://github.com/user-attachments/assets/618e1719-7158-4086-9703-ed0e431cd75f" />
+
+
 ### Sticky note
 Connecting to MYSQL Workbench in some systems would require a separate Connector 
 - Verify specs of PowerBI app in File<<About section
@@ -23,3 +29,4 @@ Connect in Power BI
 - From the Data source name (DSN) dropdown, choose the DSN you just created (e.g., MySQL_Local).
 - A dialog may appear—leave it as is and click Connect. Power BI will prompt you for credentials. Since they're stored in the DSN, you can often just click Connect again.
 - The Navigator should now display your database and tables, ready for you to load your data.
+
